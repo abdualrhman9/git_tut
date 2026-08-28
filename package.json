@@ -1,0 +1,21 @@
+{
+  "name": "git_tut",
+  "version": "1.0.0",
+  "description": "- why to learn github\r  - how git make developemnt easey\r  - what diffrents between git and git-hub",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abdualrhman9/git_tut.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/abdualrhman9/git_tut/issues"
+  },
+  "homepage": "https://github.com/abdualrhman9/git_tut#readme"
+}
