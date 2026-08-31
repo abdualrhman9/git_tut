@@ -4,7 +4,7 @@
   "description": "- why to learn github\r  - how git make developemnt easey\r  - what diffrents between git and git-hub",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --watch"
   },
   "repository": {
     "type": "git",
